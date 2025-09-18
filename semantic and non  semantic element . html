@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEMANTIC AND NON SEMANTIC TAGS</title>
+</head>
+<body>
+    <header>
+        <h1> this is the header</h1>
+    </header>
+    <nav> navigation </nav>
+    <h3>
+        blog post title
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque porro quod vel aperiam illo impedit, esse asperiores incidunt cupiditate, voluptatem laudantium tempora corrupti beatae vitae perferendis expedita ullam totam obcaecati.
+    </h3>
+    <p>
+        this is the paragraph
+    </p>
+    <h2>
+        about us
+    </h2>
+    <p>
+        this is gunjan sharma
+    </p>
+    <footer>
+        2025 cse18 website
+    </footer>
+</body>
+</html>
